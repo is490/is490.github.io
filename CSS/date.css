@@ -46,9 +46,9 @@ form .header {
   border: 2px solid #db307a;
 }
 
-input[type="date"] {
-  padding: 6px 10px;
-  font-size: 15px;
+input[type="time"] {
+  padding: 10px 15px;
+  font-size: 18px;
   cursor: pointer;
   margin: 10px;
   font-family: "courier";
