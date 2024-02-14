@@ -32,8 +32,8 @@ img {
 }
 
 .answerButton:hover {
-  background-color: #ff9494;
-  color: #ffe3e1;
-  border: 2px solid #ff9494;
-  box-shadow: 1px 1px 2px #ffe3e1;
+  background-color: #db307a;
+  color: #ffd6e8;
+  border: 2px solid #db307a;
+  box-shadow: 1px 1px 2px #ffd6e8;
 }
