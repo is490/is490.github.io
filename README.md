@@ -1,8 +1,8 @@
 # Will You Be My Valentine?
 
 Welcome to the "Will You Be My Valentine?" project, a playful and interactive way to ask that special someone the big question this Valentine's Day. Hosted as a GitHub Page, this project offers a unique blend of creativity and technology to make your Valentine's Day proposal unforgettable.
-This project was created by  Quang Thanh (byquangthanh). I used the same code and made some minor changes (color palette, food/dessert/activities options etc) to ask out my boyfriend for Valentine's day. The full creditt of the project goes to byquangthanh and if you would like to remake a similar project for yourself, please start by forking the Quang's [project repository] (https://github.com/byquangthanh/valentine.github.io) on GitHub. I have added a "How to Contribute" section below (copied from Quang's readme) to help you make contributions to the original project.
-More details regarding the project can also be found on Quang's github page: byquangthanh.
+This project was created by  Quang Thanh (byquangthanh). I used the same code and made some minor changes (color palette, food/dessert/activities options etc) to ask out my boyfriend for Valentine's day. The full credit of the project goes to [byquangthanh](https://github.com/byquangthanh) and if you would like to remake a similar project for yourself, please start by forking the Quang's [project repository](https://github.com/byquangthanh/valentine.github.io) on GitHub. I have added a "How to Contribute" section below (copied from Quang's readme) to help you make contributions to the original project.
+More details regarding the project can also be found on Quang's github page: [byquangthanh](https://github.com/byquangthanh).
 
 ## How to View
 
